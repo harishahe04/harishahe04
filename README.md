@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Harish, and I live in Bengaluru.
+
+I'm currently working as a Senior ML engineer in Quantiphi, Inc. an AI company based in Mumbai. 
+
+I work on building AI solutions for intelligent document processing and Gen AI for RAG-based conversational chatbots by Finetuning LLMs for custom use cases using AWS SageMaker Platform.
+
+
+
 <!--
 **harishahe04/harishahe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
