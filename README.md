@@ -4,7 +4,7 @@ My name is Harish, and I live in Bengaluru, India
 
 I'm currently working as a Senior ML engineer in Quantiphi, Inc. an AI company based in Mumbai. 
 
-I work on building AI solutions for intelligent document processing and Gen AI for RAG-based conversational chatbots by prompting LLMs for custom use cases and PoCs leveraging AWS SageMaker Platform.
+I primarily work on building AI solutions for automatic document processing by finetuning Multimodal models from Huggingface and in Gen AI for RAG-based conversational chatbots using LLMs. 
 
 
 
