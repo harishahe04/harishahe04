@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Harish, and I live in Bengaluru.
+My name is Harish, and I live in Bengaluru, India
 
 I'm currently working as a Senior ML engineer in Quantiphi, Inc. an AI company based in Mumbai. 
 
